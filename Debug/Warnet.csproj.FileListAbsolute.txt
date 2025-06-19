@@ -1,0 +1,510 @@
+C:\Users\Lyn\source\repos\Warnet\Warnet\bin\Debug\Warnet.exe.config
+C:\Users\Lyn\source\repos\Warnet\Warnet\bin\Debug\Warnet.exe
+C:\Users\Lyn\source\repos\Warnet\Warnet\bin\Debug\Warnet.pdb
+C:\Users\Lyn\source\repos\Warnet\Warnet\obj\Debug\Warnet.csproj.AssemblyReference.cache
+C:\Users\Lyn\source\repos\Warnet\Warnet\obj\Debug\Warnet.Form1.resources
+C:\Users\Lyn\source\repos\Warnet\Warnet\obj\Debug\Warnet.Properties.Resources.resources
+C:\Users\Lyn\source\repos\Warnet\Warnet\obj\Debug\Warnet.csproj.GenerateResource.cache
+C:\Users\Lyn\source\repos\Warnet\Warnet\obj\Debug\Warnet.csproj.CoreCompileInputs.cache
+C:\Users\Lyn\source\repos\Warnet\Warnet\obj\Debug\Warnet.exe
+C:\Users\Lyn\source\repos\Warnet\Warnet\obj\Debug\Warnet.pdb
+C:\Users\Lyn\source\repos\Warnet\Warnet\obj\Debug\Warnet.Login_Staff.resources
+C:\Users\Lyn\source\repos\Warnet\Warnet\bin\Debug\MySql.Data.dll
+C:\Users\Lyn\source\repos\Warnet\Warnet\bin\Debug\Google.Protobuf.dll
+C:\Users\Lyn\source\repos\Warnet\Warnet\bin\Debug\ZstdNet.dll
+C:\Users\Lyn\source\repos\Warnet\Warnet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lyn\source\repos\Warnet\Warnet\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lyn\source\repos\Warnet\Warnet\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Lyn\source\repos\Warnet\Warnet\bin\Debug\System.Buffers.dll
+C:\Users\Lyn\source\repos\Warnet\Warnet\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Lyn\source\repos\Warnet\Warnet\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Lyn\source\repos\Warnet\Warnet\bin\Debug\MySql.Data.xml
+C:\Users\Lyn\source\repos\Warnet\Warnet\obj\Debug\Warnet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lyn\source\repos\Warnet\Warnet\obj\Debug\Warnet.exe.config
+C:\Users\Lyn\source\repos\Warnet\Warnet\obj\Debug\Warnet.csproj.CopyComplete
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\Warnet\Warnet\bin\Debug\Warnet.exe.config
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\Warnet\Warnet\bin\Debug\Warnet.exe
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\Warnet\Warnet\bin\Debug\Warnet.pdb
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\Warnet\Warnet\bin\Debug\Google.Protobuf.dll
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\Warnet\Warnet\bin\Debug\ZstdNet.dll
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\Warnet\Warnet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\Warnet\Warnet\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\Warnet\Warnet\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\Warnet\Warnet\bin\Debug\System.Buffers.dll
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\Warnet\Warnet\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\Warnet\Warnet\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\Warnet\Warnet\bin\Debug\MySql.Data.xml
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\Warnet\Warnet\obj\Debug\Warnet.csproj.AssemblyReference.cache
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\Warnet\Warnet\obj\Debug\Warnet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\Warnet\Warnet\obj\Debug\Warnet.exe.config
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\Warnet\Warnet\obj\Debug\Warnet.Login_Staff.resources
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\Warnet\Warnet\obj\Debug\Warnet.Form1.resources
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\Warnet\Warnet\obj\Debug\Warnet.Properties.Resources.resources
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\Warnet\Warnet\obj\Debug\Warnet.csproj.GenerateResource.cache
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\Warnet\Warnet\obj\Debug\Warnet.csproj.CoreCompileInputs.cache
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\Warnet\Warnet\obj\Debug\Warnet.csproj.Up2Date
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\Warnet\Warnet\obj\Debug\Warnet.exe
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\Warnet\Warnet\obj\Debug\Warnet.pdb
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\Warnet\Warnet\obj\Debug\Warnet.Computer_Page.resources
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\Warnet\Warnet\obj\Debug\Warnet.Consumable_Page.resources
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\Warnet\Warnet\obj\Debug\Warnet.HistoryComp.resources
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\Warnet\Warnet\obj\Debug\Warnet.HistoryConsum.resources
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\Warnet\Warnet\obj\Debug\Warnet.Pemesanan.resources
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\Warnet\Warnet\obj\Debug\Warnet.Penjualan.resources
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\Warnet\Warnet\obj\Debug\Warnet.Invoice.resources
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\Warnet\Warnet\obj\Debug\Warnet.Member.resources
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\gatau\Warnet\Warnet\bin\Debug\Warnet.exe.config
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\gatau\Warnet\Warnet\bin\Debug\Warnet.exe
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\gatau\Warnet\Warnet\bin\Debug\Warnet.pdb
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\gatau\Warnet\Warnet\bin\Debug\Google.Protobuf.dll
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\gatau\Warnet\Warnet\bin\Debug\ZstdNet.dll
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\gatau\Warnet\Warnet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\gatau\Warnet\Warnet\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\gatau\Warnet\Warnet\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\gatau\Warnet\Warnet\bin\Debug\System.Buffers.dll
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\gatau\Warnet\Warnet\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\gatau\Warnet\Warnet\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\gatau\Warnet\Warnet\bin\Debug\MySql.Data.xml
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\gatau\Warnet\Warnet\obj\Debug\Warnet.csproj.AssemblyReference.cache
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\gatau\Warnet\Warnet\obj\Debug\Warnet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\gatau\Warnet\Warnet\obj\Debug\Warnet.exe.config
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\gatau\Warnet\Warnet\obj\Debug\Warnet.Computer_Page.resources
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\gatau\Warnet\Warnet\obj\Debug\Warnet.Consumable_Page.resources
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\gatau\Warnet\Warnet\obj\Debug\Warnet.HistoryComp.resources
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\gatau\Warnet\Warnet\obj\Debug\Warnet.HistoryConsum.resources
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\gatau\Warnet\Warnet\obj\Debug\Warnet.Invoice.resources
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\gatau\Warnet\Warnet\obj\Debug\Warnet.Login_Staff.resources
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\gatau\Warnet\Warnet\obj\Debug\Warnet.Form1.resources
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\gatau\Warnet\Warnet\obj\Debug\Warnet.Member.resources
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\gatau\Warnet\Warnet\obj\Debug\Warnet.Pemesanan.resources
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\gatau\Warnet\Warnet\obj\Debug\Warnet.Penjualan.resources
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\gatau\Warnet\Warnet\obj\Debug\Warnet.Properties.Resources.resources
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\gatau\Warnet\Warnet\obj\Debug\Warnet.csproj.GenerateResource.cache
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\gatau\Warnet\Warnet\obj\Debug\Warnet.csproj.CoreCompileInputs.cache
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\gatau\Warnet\Warnet\obj\Debug\Warnet.csproj.Up2Date
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\gatau\Warnet\Warnet\obj\Debug\Warnet.exe
+C:\Users\Bernard\OneDrive\Documents\ALP Database\ALP DBD\gatau\Warnet\Warnet\obj\Debug\Warnet.pdb
+C:\Users\DELL\Downloads\Warnet Abadi\Warnet\Warnet\bin\Debug\Warnet.exe.config
+C:\Users\DELL\Downloads\Warnet Abadi\Warnet\Warnet\bin\Debug\Warnet.exe
+C:\Users\DELL\Downloads\Warnet Abadi\Warnet\Warnet\bin\Debug\Warnet.pdb
+C:\Users\DELL\Downloads\Warnet Abadi\Warnet\Warnet\bin\Debug\MySql.Data.dll
+C:\Users\DELL\Downloads\Warnet Abadi\Warnet\Warnet\bin\Debug\Google.Protobuf.dll
+C:\Users\DELL\Downloads\Warnet Abadi\Warnet\Warnet\bin\Debug\ZstdNet.dll
+C:\Users\DELL\Downloads\Warnet Abadi\Warnet\Warnet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\DELL\Downloads\Warnet Abadi\Warnet\Warnet\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DELL\Downloads\Warnet Abadi\Warnet\Warnet\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\DELL\Downloads\Warnet Abadi\Warnet\Warnet\bin\Debug\System.Buffers.dll
+C:\Users\DELL\Downloads\Warnet Abadi\Warnet\Warnet\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\DELL\Downloads\Warnet Abadi\Warnet\Warnet\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\DELL\Downloads\Warnet Abadi\Warnet\Warnet\bin\Debug\MySql.Data.xml
+C:\Users\DELL\Downloads\Warnet Abadi\Warnet\Warnet\obj\Debug\Warnet.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\Warnet Abadi\Warnet\Warnet\obj\Debug\Warnet.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Downloads\Warnet Abadi\Warnet\Warnet\obj\Debug\Warnet.exe.config
+C:\Users\DELL\Downloads\Warnet Abadi\Warnet\Warnet\obj\Debug\Warnet.Computer_Page.resources
+C:\Users\DELL\Downloads\Warnet Abadi\Warnet\Warnet\obj\Debug\Warnet.Consumable_Page.resources
+C:\Users\DELL\Downloads\Warnet Abadi\Warnet\Warnet\obj\Debug\Warnet.HistoryComp.resources
+C:\Users\DELL\Downloads\Warnet Abadi\Warnet\Warnet\obj\Debug\Warnet.HistoryConsum.resources
+C:\Users\DELL\Downloads\Warnet Abadi\Warnet\Warnet\obj\Debug\Warnet.Invoice.resources
+C:\Users\DELL\Downloads\Warnet Abadi\Warnet\Warnet\obj\Debug\Warnet.Login_Staff.resources
+C:\Users\DELL\Downloads\Warnet Abadi\Warnet\Warnet\obj\Debug\Warnet.Form1.resources
+C:\Users\DELL\Downloads\Warnet Abadi\Warnet\Warnet\obj\Debug\Warnet.Member.resources
+C:\Users\DELL\Downloads\Warnet Abadi\Warnet\Warnet\obj\Debug\Warnet.Pemesanan.resources
+C:\Users\DELL\Downloads\Warnet Abadi\Warnet\Warnet\obj\Debug\Warnet.Penjualan.resources
+C:\Users\DELL\Downloads\Warnet Abadi\Warnet\Warnet\obj\Debug\Warnet.Properties.Resources.resources
+C:\Users\DELL\Downloads\Warnet Abadi\Warnet\Warnet\obj\Debug\Warnet.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\Warnet Abadi\Warnet\Warnet\obj\Debug\Warnet.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Warnet Abadi\Warnet\Warnet\obj\Debug\Warnet.csproj.CopyComplete
+C:\Users\DELL\Downloads\Warnet Abadi\Warnet\Warnet\obj\Debug\Warnet.exe
+C:\Users\DELL\Downloads\Warnet Abadi\Warnet\Warnet\obj\Debug\Warnet.pdb
+C:\Users\Bernard\OneDrive\Documents\ALP Database\Warnet\Warnet\bin\Debug\Warnet.exe.config
+C:\Users\Bernard\OneDrive\Documents\ALP Database\Warnet\Warnet\bin\Debug\Warnet.exe
+C:\Users\Bernard\OneDrive\Documents\ALP Database\Warnet\Warnet\bin\Debug\Warnet.pdb
+C:\Users\Bernard\OneDrive\Documents\ALP Database\Warnet\Warnet\bin\Debug\MySql.Data.dll
+C:\Users\Bernard\OneDrive\Documents\ALP Database\Warnet\Warnet\bin\Debug\Google.Protobuf.dll
+C:\Users\Bernard\OneDrive\Documents\ALP Database\Warnet\Warnet\bin\Debug\ZstdNet.dll
+C:\Users\Bernard\OneDrive\Documents\ALP Database\Warnet\Warnet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Bernard\OneDrive\Documents\ALP Database\Warnet\Warnet\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Bernard\OneDrive\Documents\ALP Database\Warnet\Warnet\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Bernard\OneDrive\Documents\ALP Database\Warnet\Warnet\bin\Debug\System.Buffers.dll
+C:\Users\Bernard\OneDrive\Documents\ALP Database\Warnet\Warnet\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Bernard\OneDrive\Documents\ALP Database\Warnet\Warnet\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Bernard\OneDrive\Documents\ALP Database\Warnet\Warnet\bin\Debug\MySql.Data.xml
+C:\Users\Bernard\OneDrive\Documents\ALP Database\Warnet\Warnet\obj\Debug\Warnet.csproj.AssemblyReference.cache
+C:\Users\Bernard\OneDrive\Documents\ALP Database\Warnet\Warnet\obj\Debug\Warnet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bernard\OneDrive\Documents\ALP Database\Warnet\Warnet\obj\Debug\Warnet.exe.config
+C:\Users\Bernard\OneDrive\Documents\ALP Database\Warnet\Warnet\obj\Debug\Warnet.Computer_Page.resources
+C:\Users\Bernard\OneDrive\Documents\ALP Database\Warnet\Warnet\obj\Debug\Warnet.Consumable_Page.resources
+C:\Users\Bernard\OneDrive\Documents\ALP Database\Warnet\Warnet\obj\Debug\Warnet.HistoryComp.resources
+C:\Users\Bernard\OneDrive\Documents\ALP Database\Warnet\Warnet\obj\Debug\Warnet.HistoryConsum.resources
+C:\Users\Bernard\OneDrive\Documents\ALP Database\Warnet\Warnet\obj\Debug\Warnet.Invoice.resources
+C:\Users\Bernard\OneDrive\Documents\ALP Database\Warnet\Warnet\obj\Debug\Warnet.Login_Staff.resources
+C:\Users\Bernard\OneDrive\Documents\ALP Database\Warnet\Warnet\obj\Debug\Warnet.Form1.resources
+C:\Users\Bernard\OneDrive\Documents\ALP Database\Warnet\Warnet\obj\Debug\Warnet.Member.resources
+C:\Users\Bernard\OneDrive\Documents\ALP Database\Warnet\Warnet\obj\Debug\Warnet.Pemesanan.resources
+C:\Users\Bernard\OneDrive\Documents\ALP Database\Warnet\Warnet\obj\Debug\Warnet.Penjualan.resources
+C:\Users\Bernard\OneDrive\Documents\ALP Database\Warnet\Warnet\obj\Debug\Warnet.Properties.Resources.resources
+C:\Users\Bernard\OneDrive\Documents\ALP Database\Warnet\Warnet\obj\Debug\Warnet.csproj.GenerateResource.cache
+C:\Users\Bernard\OneDrive\Documents\ALP Database\Warnet\Warnet\obj\Debug\Warnet.csproj.CoreCompileInputs.cache
+C:\Users\Bernard\OneDrive\Documents\ALP Database\Warnet\Warnet\obj\Debug\Warnet.csproj.Up2Date
+C:\Users\Bernard\OneDrive\Documents\ALP Database\Warnet\Warnet\obj\Debug\Warnet.exe
+C:\Users\Bernard\OneDrive\Documents\ALP Database\Warnet\Warnet\obj\Debug\Warnet.pdb
+C:\Users\Bernard\Downloads\aaaaaqa\Warnet\Warnet\bin\Debug\Warnet.exe.config
+C:\Users\Bernard\Downloads\aaaaaqa\Warnet\Warnet\bin\Debug\Warnet.exe
+C:\Users\Bernard\Downloads\aaaaaqa\Warnet\Warnet\bin\Debug\Warnet.pdb
+C:\Users\Bernard\Downloads\aaaaaqa\Warnet\Warnet\bin\Debug\MySql.Data.dll
+C:\Users\Bernard\Downloads\aaaaaqa\Warnet\Warnet\bin\Debug\Google.Protobuf.dll
+C:\Users\Bernard\Downloads\aaaaaqa\Warnet\Warnet\bin\Debug\ZstdNet.dll
+C:\Users\Bernard\Downloads\aaaaaqa\Warnet\Warnet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Bernard\Downloads\aaaaaqa\Warnet\Warnet\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Bernard\Downloads\aaaaaqa\Warnet\Warnet\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Bernard\Downloads\aaaaaqa\Warnet\Warnet\bin\Debug\System.Buffers.dll
+C:\Users\Bernard\Downloads\aaaaaqa\Warnet\Warnet\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Bernard\Downloads\aaaaaqa\Warnet\Warnet\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Bernard\Downloads\aaaaaqa\Warnet\Warnet\bin\Debug\MySql.Data.xml
+C:\Users\Bernard\Downloads\aaaaaqa\Warnet\Warnet\obj\Debug\Warnet.csproj.AssemblyReference.cache
+C:\Users\Bernard\Downloads\aaaaaqa\Warnet\Warnet\obj\Debug\Warnet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bernard\Downloads\aaaaaqa\Warnet\Warnet\obj\Debug\Warnet.exe.config
+C:\Users\Bernard\Downloads\aaaaaqa\Warnet\Warnet\obj\Debug\Warnet.Computer_Page.resources
+C:\Users\Bernard\Downloads\aaaaaqa\Warnet\Warnet\obj\Debug\Warnet.Consumable_Page.resources
+C:\Users\Bernard\Downloads\aaaaaqa\Warnet\Warnet\obj\Debug\Warnet.HistoryComp.resources
+C:\Users\Bernard\Downloads\aaaaaqa\Warnet\Warnet\obj\Debug\Warnet.HistoryConsum.resources
+C:\Users\Bernard\Downloads\aaaaaqa\Warnet\Warnet\obj\Debug\Warnet.Invoice.resources
+C:\Users\Bernard\Downloads\aaaaaqa\Warnet\Warnet\obj\Debug\Warnet.Login_Staff.resources
+C:\Users\Bernard\Downloads\aaaaaqa\Warnet\Warnet\obj\Debug\Warnet.Form1.resources
+C:\Users\Bernard\Downloads\aaaaaqa\Warnet\Warnet\obj\Debug\Warnet.Member.resources
+C:\Users\Bernard\Downloads\aaaaaqa\Warnet\Warnet\obj\Debug\Warnet.Pemesanan.resources
+C:\Users\Bernard\Downloads\aaaaaqa\Warnet\Warnet\obj\Debug\Warnet.Penjualan.resources
+C:\Users\Bernard\Downloads\aaaaaqa\Warnet\Warnet\obj\Debug\Warnet.Properties.Resources.resources
+C:\Users\Bernard\Downloads\aaaaaqa\Warnet\Warnet\obj\Debug\Warnet.csproj.GenerateResource.cache
+C:\Users\Bernard\Downloads\aaaaaqa\Warnet\Warnet\obj\Debug\Warnet.csproj.CoreCompileInputs.cache
+C:\Users\Bernard\Downloads\aaaaaqa\Warnet\Warnet\obj\Debug\Warnet.csproj.Up2Date
+C:\Users\Bernard\Downloads\aaaaaqa\Warnet\Warnet\obj\Debug\Warnet.exe
+C:\Users\Bernard\Downloads\aaaaaqa\Warnet\Warnet\obj\Debug\Warnet.pdb
+C:\Users\Bernard\Downloads\aaaaaqa\PLUS FITUR\Warnet\Warnet\bin\Debug\Warnet.exe.config
+C:\Users\Bernard\Downloads\aaaaaqa\PLUS FITUR\Warnet\Warnet\bin\Debug\Warnet.exe
+C:\Users\Bernard\Downloads\aaaaaqa\PLUS FITUR\Warnet\Warnet\bin\Debug\Warnet.pdb
+C:\Users\Bernard\Downloads\aaaaaqa\PLUS FITUR\Warnet\Warnet\bin\Debug\MySql.Data.dll
+C:\Users\Bernard\Downloads\aaaaaqa\PLUS FITUR\Warnet\Warnet\bin\Debug\Google.Protobuf.dll
+C:\Users\Bernard\Downloads\aaaaaqa\PLUS FITUR\Warnet\Warnet\bin\Debug\ZstdNet.dll
+C:\Users\Bernard\Downloads\aaaaaqa\PLUS FITUR\Warnet\Warnet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Bernard\Downloads\aaaaaqa\PLUS FITUR\Warnet\Warnet\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Bernard\Downloads\aaaaaqa\PLUS FITUR\Warnet\Warnet\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Bernard\Downloads\aaaaaqa\PLUS FITUR\Warnet\Warnet\bin\Debug\System.Buffers.dll
+C:\Users\Bernard\Downloads\aaaaaqa\PLUS FITUR\Warnet\Warnet\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Bernard\Downloads\aaaaaqa\PLUS FITUR\Warnet\Warnet\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Bernard\Downloads\aaaaaqa\PLUS FITUR\Warnet\Warnet\bin\Debug\MySql.Data.xml
+C:\Users\Bernard\Downloads\aaaaaqa\PLUS FITUR\Warnet\Warnet\obj\Debug\Warnet.csproj.AssemblyReference.cache
+C:\Users\Bernard\Downloads\aaaaaqa\PLUS FITUR\Warnet\Warnet\obj\Debug\Warnet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bernard\Downloads\aaaaaqa\PLUS FITUR\Warnet\Warnet\obj\Debug\Warnet.exe.config
+C:\Users\Bernard\Downloads\aaaaaqa\PLUS FITUR\Warnet\Warnet\obj\Debug\Warnet.Computer_Page.resources
+C:\Users\Bernard\Downloads\aaaaaqa\PLUS FITUR\Warnet\Warnet\obj\Debug\Warnet.Consumable_Page.resources
+C:\Users\Bernard\Downloads\aaaaaqa\PLUS FITUR\Warnet\Warnet\obj\Debug\Warnet.HistoryComp.resources
+C:\Users\Bernard\Downloads\aaaaaqa\PLUS FITUR\Warnet\Warnet\obj\Debug\Warnet.HistoryConsum.resources
+C:\Users\Bernard\Downloads\aaaaaqa\PLUS FITUR\Warnet\Warnet\obj\Debug\Warnet.Invoice.resources
+C:\Users\Bernard\Downloads\aaaaaqa\PLUS FITUR\Warnet\Warnet\obj\Debug\Warnet.Login_Staff.resources
+C:\Users\Bernard\Downloads\aaaaaqa\PLUS FITUR\Warnet\Warnet\obj\Debug\Warnet.Form1.resources
+C:\Users\Bernard\Downloads\aaaaaqa\PLUS FITUR\Warnet\Warnet\obj\Debug\Warnet.Member.resources
+C:\Users\Bernard\Downloads\aaaaaqa\PLUS FITUR\Warnet\Warnet\obj\Debug\Warnet.Pemesanan.resources
+C:\Users\Bernard\Downloads\aaaaaqa\PLUS FITUR\Warnet\Warnet\obj\Debug\Warnet.Penjualan.resources
+C:\Users\Bernard\Downloads\aaaaaqa\PLUS FITUR\Warnet\Warnet\obj\Debug\Warnet.Properties.Resources.resources
+C:\Users\Bernard\Downloads\aaaaaqa\PLUS FITUR\Warnet\Warnet\obj\Debug\Warnet.csproj.GenerateResource.cache
+C:\Users\Bernard\Downloads\aaaaaqa\PLUS FITUR\Warnet\Warnet\obj\Debug\Warnet.csproj.CoreCompileInputs.cache
+C:\Users\Bernard\Downloads\aaaaaqa\PLUS FITUR\Warnet\Warnet\obj\Debug\Warnet.csproj.Up2Date
+C:\Users\Bernard\Downloads\aaaaaqa\PLUS FITUR\Warnet\Warnet\obj\Debug\Warnet.exe
+C:\Users\Bernard\Downloads\aaaaaqa\PLUS FITUR\Warnet\Warnet\obj\Debug\Warnet.pdb
+C:\Users\Bernard\Downloads\aaaaaqa\PLUS FITUR\Warnet\Warnet\obj\Debug\Warnet.DataMember.resources
+C:\Users\Lyn\source\repos\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.csproj.AssemblyReference.cache
+C:\Users\Lyn\source\repos\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lyn\source\repos\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.exe.config
+C:\Users\Lyn\source\repos\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.After_TopUp.resources
+C:\Users\Lyn\source\repos\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.Computer_Page.resources
+C:\Users\Lyn\source\repos\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.Consumable_Page.resources
+C:\Users\Lyn\source\repos\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.DataMember.resources
+C:\Users\Lyn\source\repos\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.HistoryComp.resources
+C:\Users\Lyn\source\repos\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.HistoryConsum.resources
+C:\Users\Lyn\source\repos\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.Invoice.resources
+C:\Users\Lyn\source\repos\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.Login_Staff.resources
+C:\Users\Lyn\source\repos\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.Form1.resources
+C:\Users\Lyn\source\repos\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.Member.resources
+C:\Users\Lyn\source\repos\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.Pemesanan.resources
+C:\Users\Lyn\source\repos\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.Penjualan.resources
+C:\Users\Lyn\source\repos\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.Properties.Resources.resources
+C:\Users\Lyn\source\repos\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.TopUp_Interface.resources
+C:\Users\Lyn\source\repos\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.TopUp_Login.resources
+C:\Users\Lyn\source\repos\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.csproj.GenerateResource.cache
+C:\Users\Lyn\source\repos\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.csproj.CoreCompileInputs.cache
+C:\Users\Lyn\source\repos\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.exe
+C:\Users\Lyn\source\repos\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.pdb
+C:\Users\Lyn\source\repos\DONEEEE WARNET\Warnet\Warnet\bin\Debug\Warnet.exe.config
+C:\Users\Lyn\source\repos\DONEEEE WARNET\Warnet\Warnet\bin\Debug\Warnet.exe
+C:\Users\Lyn\source\repos\DONEEEE WARNET\Warnet\Warnet\bin\Debug\Warnet.pdb
+C:\Users\Lyn\source\repos\DONEEEE WARNET\Warnet\Warnet\bin\Debug\MySql.Data.dll
+C:\Users\Lyn\source\repos\DONEEEE WARNET\Warnet\Warnet\bin\Debug\Google.Protobuf.dll
+C:\Users\Lyn\source\repos\DONEEEE WARNET\Warnet\Warnet\bin\Debug\ZstdNet.dll
+C:\Users\Lyn\source\repos\DONEEEE WARNET\Warnet\Warnet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lyn\source\repos\DONEEEE WARNET\Warnet\Warnet\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Lyn\source\repos\DONEEEE WARNET\Warnet\Warnet\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Lyn\source\repos\DONEEEE WARNET\Warnet\Warnet\bin\Debug\System.Buffers.dll
+C:\Users\Lyn\source\repos\DONEEEE WARNET\Warnet\Warnet\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Lyn\source\repos\DONEEEE WARNET\Warnet\Warnet\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Lyn\source\repos\DONEEEE WARNET\Warnet\Warnet\bin\Debug\MySql.Data.xml
+C:\Users\Lyn\source\repos\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.csproj.CopyComplete
+C:\Users\Bernard\OneDrive\Documents\Revisi Appdev\ALP APPDEV\DONEEEE WARNET\Warnet\Warnet\bin\Debug\Warnet.exe.config
+C:\Users\Bernard\OneDrive\Documents\Revisi Appdev\ALP APPDEV\DONEEEE WARNET\Warnet\Warnet\bin\Debug\Warnet.exe
+C:\Users\Bernard\OneDrive\Documents\Revisi Appdev\ALP APPDEV\DONEEEE WARNET\Warnet\Warnet\bin\Debug\Warnet.pdb
+C:\Users\Bernard\OneDrive\Documents\Revisi Appdev\ALP APPDEV\DONEEEE WARNET\Warnet\Warnet\bin\Debug\MySql.Data.dll
+C:\Users\Bernard\OneDrive\Documents\Revisi Appdev\ALP APPDEV\DONEEEE WARNET\Warnet\Warnet\bin\Debug\Google.Protobuf.dll
+C:\Users\Bernard\OneDrive\Documents\Revisi Appdev\ALP APPDEV\DONEEEE WARNET\Warnet\Warnet\bin\Debug\ZstdNet.dll
+C:\Users\Bernard\OneDrive\Documents\Revisi Appdev\ALP APPDEV\DONEEEE WARNET\Warnet\Warnet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Bernard\OneDrive\Documents\Revisi Appdev\ALP APPDEV\DONEEEE WARNET\Warnet\Warnet\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Bernard\OneDrive\Documents\Revisi Appdev\ALP APPDEV\DONEEEE WARNET\Warnet\Warnet\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Bernard\OneDrive\Documents\Revisi Appdev\ALP APPDEV\DONEEEE WARNET\Warnet\Warnet\bin\Debug\System.Buffers.dll
+C:\Users\Bernard\OneDrive\Documents\Revisi Appdev\ALP APPDEV\DONEEEE WARNET\Warnet\Warnet\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Bernard\OneDrive\Documents\Revisi Appdev\ALP APPDEV\DONEEEE WARNET\Warnet\Warnet\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Bernard\OneDrive\Documents\Revisi Appdev\ALP APPDEV\DONEEEE WARNET\Warnet\Warnet\bin\Debug\MySql.Data.xml
+C:\Users\Bernard\OneDrive\Documents\Revisi Appdev\ALP APPDEV\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.csproj.AssemblyReference.cache
+C:\Users\Bernard\OneDrive\Documents\Revisi Appdev\ALP APPDEV\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bernard\OneDrive\Documents\Revisi Appdev\ALP APPDEV\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.exe.config
+C:\Users\Bernard\OneDrive\Documents\Revisi Appdev\ALP APPDEV\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.After_TopUp.resources
+C:\Users\Bernard\OneDrive\Documents\Revisi Appdev\ALP APPDEV\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.Computer_Page.resources
+C:\Users\Bernard\OneDrive\Documents\Revisi Appdev\ALP APPDEV\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.Consumable_Page.resources
+C:\Users\Bernard\OneDrive\Documents\Revisi Appdev\ALP APPDEV\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.DataMember.resources
+C:\Users\Bernard\OneDrive\Documents\Revisi Appdev\ALP APPDEV\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.HistoryComp.resources
+C:\Users\Bernard\OneDrive\Documents\Revisi Appdev\ALP APPDEV\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.HistoryConsum.resources
+C:\Users\Bernard\OneDrive\Documents\Revisi Appdev\ALP APPDEV\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.Invoice.resources
+C:\Users\Bernard\OneDrive\Documents\Revisi Appdev\ALP APPDEV\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.Login_Staff.resources
+C:\Users\Bernard\OneDrive\Documents\Revisi Appdev\ALP APPDEV\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.Form1.resources
+C:\Users\Bernard\OneDrive\Documents\Revisi Appdev\ALP APPDEV\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.Member.resources
+C:\Users\Bernard\OneDrive\Documents\Revisi Appdev\ALP APPDEV\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.Pemesanan.resources
+C:\Users\Bernard\OneDrive\Documents\Revisi Appdev\ALP APPDEV\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.Penjualan.resources
+C:\Users\Bernard\OneDrive\Documents\Revisi Appdev\ALP APPDEV\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.Properties.Resources.resources
+C:\Users\Bernard\OneDrive\Documents\Revisi Appdev\ALP APPDEV\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.TopUp_Interface.resources
+C:\Users\Bernard\OneDrive\Documents\Revisi Appdev\ALP APPDEV\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.TopUp_Login.resources
+C:\Users\Bernard\OneDrive\Documents\Revisi Appdev\ALP APPDEV\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.csproj.GenerateResource.cache
+C:\Users\Bernard\OneDrive\Documents\Revisi Appdev\ALP APPDEV\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.csproj.CoreCompileInputs.cache
+C:\Users\Bernard\OneDrive\Documents\Revisi Appdev\ALP APPDEV\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.csproj.Up2Date
+C:\Users\Bernard\OneDrive\Documents\Revisi Appdev\ALP APPDEV\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.exe
+C:\Users\Bernard\OneDrive\Documents\Revisi Appdev\ALP APPDEV\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.pdb
+C:\Users\Bernard\OneDrive\Documents\Revisi Appdev\ALP APPDEV\DONEEEE WARNET\Warnet\Warnet\obj\Debug\Warnet.InvoiceTopUp.resources
+C:\Users\Bernard\Downloads\FINISH\Warnet\Warnet\bin\Debug\Warnet.exe.config
+C:\Users\Bernard\Downloads\FINISH\Warnet\Warnet\bin\Debug\Warnet.exe
+C:\Users\Bernard\Downloads\FINISH\Warnet\Warnet\bin\Debug\Warnet.pdb
+C:\Users\Bernard\Downloads\FINISH\Warnet\Warnet\bin\Debug\MySql.Data.dll
+C:\Users\Bernard\Downloads\FINISH\Warnet\Warnet\bin\Debug\Google.Protobuf.dll
+C:\Users\Bernard\Downloads\FINISH\Warnet\Warnet\bin\Debug\ZstdNet.dll
+C:\Users\Bernard\Downloads\FINISH\Warnet\Warnet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Bernard\Downloads\FINISH\Warnet\Warnet\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Bernard\Downloads\FINISH\Warnet\Warnet\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Bernard\Downloads\FINISH\Warnet\Warnet\bin\Debug\System.Buffers.dll
+C:\Users\Bernard\Downloads\FINISH\Warnet\Warnet\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Bernard\Downloads\FINISH\Warnet\Warnet\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Bernard\Downloads\FINISH\Warnet\Warnet\bin\Debug\MySql.Data.xml
+C:\Users\Bernard\Downloads\FINISH\Warnet\Warnet\obj\Debug\Warnet.csproj.AssemblyReference.cache
+C:\Users\Bernard\Downloads\FINISH\Warnet\Warnet\obj\Debug\Warnet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bernard\Downloads\FINISH\Warnet\Warnet\obj\Debug\Warnet.exe.config
+C:\Users\Bernard\Downloads\FINISH\Warnet\Warnet\obj\Debug\Warnet.After_TopUp.resources
+C:\Users\Bernard\Downloads\FINISH\Warnet\Warnet\obj\Debug\Warnet.Computer_Page.resources
+C:\Users\Bernard\Downloads\FINISH\Warnet\Warnet\obj\Debug\Warnet.Consumable_Page.resources
+C:\Users\Bernard\Downloads\FINISH\Warnet\Warnet\obj\Debug\Warnet.DataMember.resources
+C:\Users\Bernard\Downloads\FINISH\Warnet\Warnet\obj\Debug\Warnet.HistoryComp.resources
+C:\Users\Bernard\Downloads\FINISH\Warnet\Warnet\obj\Debug\Warnet.HistoryConsum.resources
+C:\Users\Bernard\Downloads\FINISH\Warnet\Warnet\obj\Debug\Warnet.Invoice.resources
+C:\Users\Bernard\Downloads\FINISH\Warnet\Warnet\obj\Debug\Warnet.InvoiceTopUp.resources
+C:\Users\Bernard\Downloads\FINISH\Warnet\Warnet\obj\Debug\Warnet.Login_Staff.resources
+C:\Users\Bernard\Downloads\FINISH\Warnet\Warnet\obj\Debug\Warnet.Form1.resources
+C:\Users\Bernard\Downloads\FINISH\Warnet\Warnet\obj\Debug\Warnet.Member.resources
+C:\Users\Bernard\Downloads\FINISH\Warnet\Warnet\obj\Debug\Warnet.Pemesanan.resources
+C:\Users\Bernard\Downloads\FINISH\Warnet\Warnet\obj\Debug\Warnet.Penjualan.resources
+C:\Users\Bernard\Downloads\FINISH\Warnet\Warnet\obj\Debug\Warnet.Properties.Resources.resources
+C:\Users\Bernard\Downloads\FINISH\Warnet\Warnet\obj\Debug\Warnet.TopUp_Interface.resources
+C:\Users\Bernard\Downloads\FINISH\Warnet\Warnet\obj\Debug\Warnet.TopUp_Login.resources
+C:\Users\Bernard\Downloads\FINISH\Warnet\Warnet\obj\Debug\Warnet.csproj.GenerateResource.cache
+C:\Users\Bernard\Downloads\FINISH\Warnet\Warnet\obj\Debug\Warnet.csproj.CoreCompileInputs.cache
+C:\Users\Bernard\Downloads\FINISH\Warnet\Warnet\obj\Debug\Warnet.csproj.Up2Date
+C:\Users\Bernard\Downloads\FINISH\Warnet\Warnet\obj\Debug\Warnet.exe
+C:\Users\Bernard\Downloads\FINISH\Warnet\Warnet\obj\Debug\Warnet.pdb
+C:\Users\Bernard\Downloads\FINISH\APAAAA\Warnet\Warnet\bin\Debug\Warnet.exe.config
+C:\Users\Bernard\Downloads\FINISH\APAAAA\Warnet\Warnet\bin\Debug\Warnet.exe
+C:\Users\Bernard\Downloads\FINISH\APAAAA\Warnet\Warnet\bin\Debug\Warnet.pdb
+C:\Users\Bernard\Downloads\FINISH\APAAAA\Warnet\Warnet\bin\Debug\MySql.Data.dll
+C:\Users\Bernard\Downloads\FINISH\APAAAA\Warnet\Warnet\bin\Debug\Google.Protobuf.dll
+C:\Users\Bernard\Downloads\FINISH\APAAAA\Warnet\Warnet\bin\Debug\ZstdNet.dll
+C:\Users\Bernard\Downloads\FINISH\APAAAA\Warnet\Warnet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Bernard\Downloads\FINISH\APAAAA\Warnet\Warnet\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Bernard\Downloads\FINISH\APAAAA\Warnet\Warnet\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Bernard\Downloads\FINISH\APAAAA\Warnet\Warnet\bin\Debug\System.Buffers.dll
+C:\Users\Bernard\Downloads\FINISH\APAAAA\Warnet\Warnet\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Bernard\Downloads\FINISH\APAAAA\Warnet\Warnet\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Bernard\Downloads\FINISH\APAAAA\Warnet\Warnet\bin\Debug\MySql.Data.xml
+C:\Users\Bernard\Downloads\FINISH\APAAAA\Warnet\Warnet\obj\Debug\Warnet.csproj.AssemblyReference.cache
+C:\Users\Bernard\Downloads\FINISH\APAAAA\Warnet\Warnet\obj\Debug\Warnet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bernard\Downloads\FINISH\APAAAA\Warnet\Warnet\obj\Debug\Warnet.exe.config
+C:\Users\Bernard\Downloads\FINISH\APAAAA\Warnet\Warnet\obj\Debug\Warnet.After_TopUp.resources
+C:\Users\Bernard\Downloads\FINISH\APAAAA\Warnet\Warnet\obj\Debug\Warnet.Computer_Page.resources
+C:\Users\Bernard\Downloads\FINISH\APAAAA\Warnet\Warnet\obj\Debug\Warnet.Consumable_Page.resources
+C:\Users\Bernard\Downloads\FINISH\APAAAA\Warnet\Warnet\obj\Debug\Warnet.DataMember.resources
+C:\Users\Bernard\Downloads\FINISH\APAAAA\Warnet\Warnet\obj\Debug\Warnet.HistoryComp.resources
+C:\Users\Bernard\Downloads\FINISH\APAAAA\Warnet\Warnet\obj\Debug\Warnet.HistoryConsum.resources
+C:\Users\Bernard\Downloads\FINISH\APAAAA\Warnet\Warnet\obj\Debug\Warnet.Invoice.resources
+C:\Users\Bernard\Downloads\FINISH\APAAAA\Warnet\Warnet\obj\Debug\Warnet.InvoiceTopUp.resources
+C:\Users\Bernard\Downloads\FINISH\APAAAA\Warnet\Warnet\obj\Debug\Warnet.Login_Staff.resources
+C:\Users\Bernard\Downloads\FINISH\APAAAA\Warnet\Warnet\obj\Debug\Warnet.Form1.resources
+C:\Users\Bernard\Downloads\FINISH\APAAAA\Warnet\Warnet\obj\Debug\Warnet.Member.resources
+C:\Users\Bernard\Downloads\FINISH\APAAAA\Warnet\Warnet\obj\Debug\Warnet.Pemesanan.resources
+C:\Users\Bernard\Downloads\FINISH\APAAAA\Warnet\Warnet\obj\Debug\Warnet.Penjualan.resources
+C:\Users\Bernard\Downloads\FINISH\APAAAA\Warnet\Warnet\obj\Debug\Warnet.Properties.Resources.resources
+C:\Users\Bernard\Downloads\FINISH\APAAAA\Warnet\Warnet\obj\Debug\Warnet.TopUp_Interface.resources
+C:\Users\Bernard\Downloads\FINISH\APAAAA\Warnet\Warnet\obj\Debug\Warnet.TopUp_Login.resources
+C:\Users\Bernard\Downloads\FINISH\APAAAA\Warnet\Warnet\obj\Debug\Warnet.csproj.GenerateResource.cache
+C:\Users\Bernard\Downloads\FINISH\APAAAA\Warnet\Warnet\obj\Debug\Warnet.csproj.CoreCompileInputs.cache
+C:\Users\Bernard\Downloads\FINISH\APAAAA\Warnet\Warnet\obj\Debug\Warnet.csproj.Up2Date
+C:\Users\Bernard\Downloads\FINISH\APAAAA\Warnet\Warnet\obj\Debug\Warnet.exe
+C:\Users\Bernard\Downloads\FINISH\APAAAA\Warnet\Warnet\obj\Debug\Warnet.pdb
+C:\Users\ASUS\Downloads\PAK CETEEEEE\Warnet\Warnet\bin\Debug\Warnet.exe.config
+C:\Users\ASUS\Downloads\PAK CETEEEEE\Warnet\Warnet\bin\Debug\Warnet.exe
+C:\Users\ASUS\Downloads\PAK CETEEEEE\Warnet\Warnet\bin\Debug\Warnet.pdb
+C:\Users\ASUS\Downloads\PAK CETEEEEE\Warnet\Warnet\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Downloads\PAK CETEEEEE\Warnet\Warnet\bin\Debug\Google.Protobuf.dll
+C:\Users\ASUS\Downloads\PAK CETEEEEE\Warnet\Warnet\bin\Debug\ZstdNet.dll
+C:\Users\ASUS\Downloads\PAK CETEEEEE\Warnet\Warnet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ASUS\Downloads\PAK CETEEEEE\Warnet\Warnet\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ASUS\Downloads\PAK CETEEEEE\Warnet\Warnet\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ASUS\Downloads\PAK CETEEEEE\Warnet\Warnet\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\Downloads\PAK CETEEEEE\Warnet\Warnet\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ASUS\Downloads\PAK CETEEEEE\Warnet\Warnet\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ASUS\Downloads\PAK CETEEEEE\Warnet\Warnet\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\Downloads\PAK CETEEEEE\Warnet\Warnet\obj\Debug\Warnet.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\PAK CETEEEEE\Warnet\Warnet\obj\Debug\Warnet.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Downloads\PAK CETEEEEE\Warnet\Warnet\obj\Debug\Warnet.exe.config
+C:\Users\ASUS\Downloads\PAK CETEEEEE\Warnet\Warnet\obj\Debug\Warnet.After_TopUp.resources
+C:\Users\ASUS\Downloads\PAK CETEEEEE\Warnet\Warnet\obj\Debug\Warnet.Computer_Page.resources
+C:\Users\ASUS\Downloads\PAK CETEEEEE\Warnet\Warnet\obj\Debug\Warnet.Consumable_Page.resources
+C:\Users\ASUS\Downloads\PAK CETEEEEE\Warnet\Warnet\obj\Debug\Warnet.DataMember.resources
+C:\Users\ASUS\Downloads\PAK CETEEEEE\Warnet\Warnet\obj\Debug\Warnet.HistoryComp.resources
+C:\Users\ASUS\Downloads\PAK CETEEEEE\Warnet\Warnet\obj\Debug\Warnet.HistoryConsum.resources
+C:\Users\ASUS\Downloads\PAK CETEEEEE\Warnet\Warnet\obj\Debug\Warnet.Invoice.resources
+C:\Users\ASUS\Downloads\PAK CETEEEEE\Warnet\Warnet\obj\Debug\Warnet.InvoiceTopUp.resources
+C:\Users\ASUS\Downloads\PAK CETEEEEE\Warnet\Warnet\obj\Debug\Warnet.Login_Staff.resources
+C:\Users\ASUS\Downloads\PAK CETEEEEE\Warnet\Warnet\obj\Debug\Warnet.Form1.resources
+C:\Users\ASUS\Downloads\PAK CETEEEEE\Warnet\Warnet\obj\Debug\Warnet.Member.resources
+C:\Users\ASUS\Downloads\PAK CETEEEEE\Warnet\Warnet\obj\Debug\Warnet.Pemesanan.resources
+C:\Users\ASUS\Downloads\PAK CETEEEEE\Warnet\Warnet\obj\Debug\Warnet.Penjualan.resources
+C:\Users\ASUS\Downloads\PAK CETEEEEE\Warnet\Warnet\obj\Debug\Warnet.Properties.Resources.resources
+C:\Users\ASUS\Downloads\PAK CETEEEEE\Warnet\Warnet\obj\Debug\Warnet.TopUp_Interface.resources
+C:\Users\ASUS\Downloads\PAK CETEEEEE\Warnet\Warnet\obj\Debug\Warnet.TopUp_Login.resources
+C:\Users\ASUS\Downloads\PAK CETEEEEE\Warnet\Warnet\obj\Debug\Warnet.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\PAK CETEEEEE\Warnet\Warnet\obj\Debug\Warnet.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\PAK CETEEEEE\Warnet\Warnet\obj\Debug\Warnet.csproj.Up2Date
+C:\Users\ASUS\Downloads\PAK CETEEEEE\Warnet\Warnet\obj\Debug\Warnet.exe
+C:\Users\ASUS\Downloads\PAK CETEEEEE\Warnet\Warnet\obj\Debug\Warnet.pdb
+C:\Users\ASUS\Downloads\PAK CETEEEEE\babi\Warnet\Warnet\bin\Debug\Warnet.exe.config
+C:\Users\ASUS\Downloads\PAK CETEEEEE\babi\Warnet\Warnet\bin\Debug\Warnet.exe
+C:\Users\ASUS\Downloads\PAK CETEEEEE\babi\Warnet\Warnet\bin\Debug\Warnet.pdb
+C:\Users\ASUS\Downloads\PAK CETEEEEE\babi\Warnet\Warnet\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Downloads\PAK CETEEEEE\babi\Warnet\Warnet\bin\Debug\Google.Protobuf.dll
+C:\Users\ASUS\Downloads\PAK CETEEEEE\babi\Warnet\Warnet\bin\Debug\ZstdNet.dll
+C:\Users\ASUS\Downloads\PAK CETEEEEE\babi\Warnet\Warnet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ASUS\Downloads\PAK CETEEEEE\babi\Warnet\Warnet\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ASUS\Downloads\PAK CETEEEEE\babi\Warnet\Warnet\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ASUS\Downloads\PAK CETEEEEE\babi\Warnet\Warnet\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\Downloads\PAK CETEEEEE\babi\Warnet\Warnet\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ASUS\Downloads\PAK CETEEEEE\babi\Warnet\Warnet\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ASUS\Downloads\PAK CETEEEEE\babi\Warnet\Warnet\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\Downloads\PAK CETEEEEE\babi\Warnet\Warnet\obj\Debug\Warnet.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\PAK CETEEEEE\babi\Warnet\Warnet\obj\Debug\Warnet.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Downloads\PAK CETEEEEE\babi\Warnet\Warnet\obj\Debug\Warnet.exe.config
+C:\Users\ASUS\Downloads\PAK CETEEEEE\babi\Warnet\Warnet\obj\Debug\Warnet.After_TopUp.resources
+C:\Users\ASUS\Downloads\PAK CETEEEEE\babi\Warnet\Warnet\obj\Debug\Warnet.Computer_Page.resources
+C:\Users\ASUS\Downloads\PAK CETEEEEE\babi\Warnet\Warnet\obj\Debug\Warnet.Consumable_Page.resources
+C:\Users\ASUS\Downloads\PAK CETEEEEE\babi\Warnet\Warnet\obj\Debug\Warnet.DataMember.resources
+C:\Users\ASUS\Downloads\PAK CETEEEEE\babi\Warnet\Warnet\obj\Debug\Warnet.HistoryComp.resources
+C:\Users\ASUS\Downloads\PAK CETEEEEE\babi\Warnet\Warnet\obj\Debug\Warnet.HistoryConsum.resources
+C:\Users\ASUS\Downloads\PAK CETEEEEE\babi\Warnet\Warnet\obj\Debug\Warnet.Invoice.resources
+C:\Users\ASUS\Downloads\PAK CETEEEEE\babi\Warnet\Warnet\obj\Debug\Warnet.InvoiceTopUp.resources
+C:\Users\ASUS\Downloads\PAK CETEEEEE\babi\Warnet\Warnet\obj\Debug\Warnet.Login_Staff.resources
+C:\Users\ASUS\Downloads\PAK CETEEEEE\babi\Warnet\Warnet\obj\Debug\Warnet.Form1.resources
+C:\Users\ASUS\Downloads\PAK CETEEEEE\babi\Warnet\Warnet\obj\Debug\Warnet.Member.resources
+C:\Users\ASUS\Downloads\PAK CETEEEEE\babi\Warnet\Warnet\obj\Debug\Warnet.Pemesanan.resources
+C:\Users\ASUS\Downloads\PAK CETEEEEE\babi\Warnet\Warnet\obj\Debug\Warnet.Penjualan.resources
+C:\Users\ASUS\Downloads\PAK CETEEEEE\babi\Warnet\Warnet\obj\Debug\Warnet.Properties.Resources.resources
+C:\Users\ASUS\Downloads\PAK CETEEEEE\babi\Warnet\Warnet\obj\Debug\Warnet.TopUp_Interface.resources
+C:\Users\ASUS\Downloads\PAK CETEEEEE\babi\Warnet\Warnet\obj\Debug\Warnet.TopUp_Login.resources
+C:\Users\ASUS\Downloads\PAK CETEEEEE\babi\Warnet\Warnet\obj\Debug\Warnet.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\PAK CETEEEEE\babi\Warnet\Warnet\obj\Debug\Warnet.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\PAK CETEEEEE\babi\Warnet\Warnet\obj\Debug\Warnet.csproj.Up2Date
+C:\Users\ASUS\Downloads\PAK CETEEEEE\babi\Warnet\Warnet\obj\Debug\Warnet.exe
+C:\Users\ASUS\Downloads\PAK CETEEEEE\babi\Warnet\Warnet\obj\Debug\Warnet.pdb
+C:\Users\ASUS\Downloads\JEPPER\Warnet\Warnet\bin\Debug\Warnet.exe.config
+C:\Users\ASUS\Downloads\JEPPER\Warnet\Warnet\bin\Debug\Warnet.exe
+C:\Users\ASUS\Downloads\JEPPER\Warnet\Warnet\bin\Debug\Warnet.pdb
+C:\Users\ASUS\Downloads\JEPPER\Warnet\Warnet\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Downloads\JEPPER\Warnet\Warnet\bin\Debug\Google.Protobuf.dll
+C:\Users\ASUS\Downloads\JEPPER\Warnet\Warnet\bin\Debug\ZstdNet.dll
+C:\Users\ASUS\Downloads\JEPPER\Warnet\Warnet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ASUS\Downloads\JEPPER\Warnet\Warnet\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ASUS\Downloads\JEPPER\Warnet\Warnet\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\ASUS\Downloads\JEPPER\Warnet\Warnet\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\Downloads\JEPPER\Warnet\Warnet\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ASUS\Downloads\JEPPER\Warnet\Warnet\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ASUS\Downloads\JEPPER\Warnet\Warnet\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\Downloads\JEPPER\Warnet\Warnet\obj\Debug\Warnet.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\JEPPER\Warnet\Warnet\obj\Debug\Warnet.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Downloads\JEPPER\Warnet\Warnet\obj\Debug\Warnet.exe.config
+C:\Users\ASUS\Downloads\JEPPER\Warnet\Warnet\obj\Debug\Warnet.After_TopUp.resources
+C:\Users\ASUS\Downloads\JEPPER\Warnet\Warnet\obj\Debug\Warnet.Computer_Page.resources
+C:\Users\ASUS\Downloads\JEPPER\Warnet\Warnet\obj\Debug\Warnet.Consumable_Page.resources
+C:\Users\ASUS\Downloads\JEPPER\Warnet\Warnet\obj\Debug\Warnet.DataMember.resources
+C:\Users\ASUS\Downloads\JEPPER\Warnet\Warnet\obj\Debug\Warnet.HistoryComp.resources
+C:\Users\ASUS\Downloads\JEPPER\Warnet\Warnet\obj\Debug\Warnet.HistoryConsum.resources
+C:\Users\ASUS\Downloads\JEPPER\Warnet\Warnet\obj\Debug\Warnet.Invoice.resources
+C:\Users\ASUS\Downloads\JEPPER\Warnet\Warnet\obj\Debug\Warnet.InvoiceTopUp.resources
+C:\Users\ASUS\Downloads\JEPPER\Warnet\Warnet\obj\Debug\Warnet.Login_Staff.resources
+C:\Users\ASUS\Downloads\JEPPER\Warnet\Warnet\obj\Debug\Warnet.Form1.resources
+C:\Users\ASUS\Downloads\JEPPER\Warnet\Warnet\obj\Debug\Warnet.Member.resources
+C:\Users\ASUS\Downloads\JEPPER\Warnet\Warnet\obj\Debug\Warnet.Pemesanan.resources
+C:\Users\ASUS\Downloads\JEPPER\Warnet\Warnet\obj\Debug\Warnet.Penjualan.resources
+C:\Users\ASUS\Downloads\JEPPER\Warnet\Warnet\obj\Debug\Warnet.Properties.Resources.resources
+C:\Users\ASUS\Downloads\JEPPER\Warnet\Warnet\obj\Debug\Warnet.TopUp_Interface.resources
+C:\Users\ASUS\Downloads\JEPPER\Warnet\Warnet\obj\Debug\Warnet.TopUp_Login.resources
+C:\Users\ASUS\Downloads\JEPPER\Warnet\Warnet\obj\Debug\Warnet.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\JEPPER\Warnet\Warnet\obj\Debug\Warnet.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\JEPPER\Warnet\Warnet\obj\Debug\Warnet.csproj.Up2Date
+C:\Users\ASUS\Downloads\JEPPER\Warnet\Warnet\obj\Debug\Warnet.exe
+C:\Users\ASUS\Downloads\JEPPER\Warnet\Warnet\obj\Debug\Warnet.pdb
+C:\Users\jacql\Downloads\MAMAAAA\Warnet\Warnet\bin\Debug\Warnet.exe.config
+C:\Users\jacql\Downloads\MAMAAAA\Warnet\Warnet\bin\Debug\Warnet.exe
+C:\Users\jacql\Downloads\MAMAAAA\Warnet\Warnet\bin\Debug\Warnet.pdb
+C:\Users\jacql\Downloads\MAMAAAA\Warnet\Warnet\bin\Debug\MySql.Data.dll
+C:\Users\jacql\Downloads\MAMAAAA\Warnet\Warnet\bin\Debug\Google.Protobuf.dll
+C:\Users\jacql\Downloads\MAMAAAA\Warnet\Warnet\bin\Debug\ZstdNet.dll
+C:\Users\jacql\Downloads\MAMAAAA\Warnet\Warnet\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jacql\Downloads\MAMAAAA\Warnet\Warnet\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jacql\Downloads\MAMAAAA\Warnet\Warnet\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jacql\Downloads\MAMAAAA\Warnet\Warnet\bin\Debug\System.Buffers.dll
+C:\Users\jacql\Downloads\MAMAAAA\Warnet\Warnet\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jacql\Downloads\MAMAAAA\Warnet\Warnet\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jacql\Downloads\MAMAAAA\Warnet\Warnet\bin\Debug\MySql.Data.xml
+C:\Users\jacql\Downloads\MAMAAAA\Warnet\Warnet\obj\Debug\Warnet.csproj.AssemblyReference.cache
+C:\Users\jacql\Downloads\MAMAAAA\Warnet\Warnet\obj\Debug\Warnet.csproj.SuggestedBindingRedirects.cache
+C:\Users\jacql\Downloads\MAMAAAA\Warnet\Warnet\obj\Debug\Warnet.exe.config
+C:\Users\jacql\Downloads\MAMAAAA\Warnet\Warnet\obj\Debug\Warnet.After_TopUp.resources
+C:\Users\jacql\Downloads\MAMAAAA\Warnet\Warnet\obj\Debug\Warnet.Computer_Page.resources
+C:\Users\jacql\Downloads\MAMAAAA\Warnet\Warnet\obj\Debug\Warnet.Consumable_Page.resources
+C:\Users\jacql\Downloads\MAMAAAA\Warnet\Warnet\obj\Debug\Warnet.DataMember.resources
+C:\Users\jacql\Downloads\MAMAAAA\Warnet\Warnet\obj\Debug\Warnet.HistoryComp.resources
+C:\Users\jacql\Downloads\MAMAAAA\Warnet\Warnet\obj\Debug\Warnet.HistoryConsum.resources
+C:\Users\jacql\Downloads\MAMAAAA\Warnet\Warnet\obj\Debug\Warnet.Invoice.resources
+C:\Users\jacql\Downloads\MAMAAAA\Warnet\Warnet\obj\Debug\Warnet.InvoiceTopUp.resources
+C:\Users\jacql\Downloads\MAMAAAA\Warnet\Warnet\obj\Debug\Warnet.Login_Staff.resources
+C:\Users\jacql\Downloads\MAMAAAA\Warnet\Warnet\obj\Debug\Warnet.Form1.resources
+C:\Users\jacql\Downloads\MAMAAAA\Warnet\Warnet\obj\Debug\Warnet.Member.resources
+C:\Users\jacql\Downloads\MAMAAAA\Warnet\Warnet\obj\Debug\Warnet.Pemesanan.resources
+C:\Users\jacql\Downloads\MAMAAAA\Warnet\Warnet\obj\Debug\Warnet.Penjualan.resources
+C:\Users\jacql\Downloads\MAMAAAA\Warnet\Warnet\obj\Debug\Warnet.Properties.Resources.resources
+C:\Users\jacql\Downloads\MAMAAAA\Warnet\Warnet\obj\Debug\Warnet.TopUp_Interface.resources
+C:\Users\jacql\Downloads\MAMAAAA\Warnet\Warnet\obj\Debug\Warnet.TopUp_Login.resources
+C:\Users\jacql\Downloads\MAMAAAA\Warnet\Warnet\obj\Debug\Warnet.csproj.GenerateResource.cache
+C:\Users\jacql\Downloads\MAMAAAA\Warnet\Warnet\obj\Debug\Warnet.csproj.CoreCompileInputs.cache
+C:\Users\jacql\Downloads\MAMAAAA\Warnet\Warnet\obj\Debug\Warnet.csproj.CopyComplete
+C:\Users\jacql\Downloads\MAMAAAA\Warnet\Warnet\obj\Debug\Warnet.exe
+C:\Users\jacql\Downloads\MAMAAAA\Warnet\Warnet\obj\Debug\Warnet.pdb
